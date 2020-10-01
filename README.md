@@ -16,7 +16,7 @@ CSS3
  ##  It's a personal Blog :D fictitious
 
 **home page**
-![Initial page](https://github.com/IvanCarlota/Tec-Blog/blob/master/imagens/public/readme/1.png)
+![Initial page](https://github.com/IvanCarlota/Tec-Blog/blob/master/images/public/readme/1.png)
 
 ## Links
   
